@@ -1,0 +1,16 @@
+
+{
+    "urls": [
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+            "name": "肥羊4K直播源"
+        } ,
+{"url": "clan://localhost/Download/m3u8/bendi.json","name":"本地连接"}
+    ],
+    "vip": [
+        {
+            "url": "",
+            "name": "默认"
+        }
+    ]
+}
