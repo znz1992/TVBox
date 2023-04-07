@@ -1,3 +1,47 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="德善" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="斗鱼",德善
+#EXTINF:-1,tvg-id="douyu1" tvg-name="德善" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/a1990a7498694982bc88e222cf7d2fd6_big.jpg" group-title="斗鱼",德善
 http://192.168.2.2:35455/douyu/8600645
+#EXTINF:-1,tvg-id="douyu2" tvg-name="电影解说-牛叔" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201708/04/17/5ced31536273bed685f9f10a956145e5_big.jpg" group-title="斗鱼",电影解说-牛叔
+http://192.168.2.2:35455/douyu/2758565
+#EXTINF:-1,tvg-id="douyu3" tvg-name="【贝爷影厅】经典 科幻 动作 灾难 巨兽" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/62a2bfb18ccb4fb5a444847370f32096_big.jpg" group-title="斗鱼",【贝爷影厅】经典 科幻 动作 灾难 巨兽
+http://192.168.2.2:35455/douyu/252802
+#EXTINF:-1,tvg-id="douyu4" tvg-name="❤️可乐❤️电影 欧美 科幻 经典" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201911/7fd6121143ca410cbb4305711b219b74_big.jpg" group-title="斗鱼",❤️可乐❤️电影 欧美 科幻 经典
+http://192.168.2.2:35455/douyu/20415
+#EXTINF:-1,tvg-id="douyu5" tvg-name="【片片】片荒的时候看片片" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201802/03/18/7040873fd91e01c09fa1706d39f314b4_big.jpg" group-title="斗鱼",【片片】片荒的时候看片片
+http://192.168.2.2:35455/douyu/4258555
+#EXTINF:-1,tvg-id="douyu6" tvg-name="❤️小饼❤️一个神秘的电影直播间" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202012/b8f25e9276494ce185b9254ffa89786d_big.jpg" group-title="斗鱼",❤️小饼❤️一个神秘的电影直播间
+http://192.168.2.2:35455/douyu/1735337
+#EXTINF:-1,tvg-id="douyu6" tvg-name="❤️怡寶❤️ 港台 科幻 喜剧 动作" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/4c2d06fdda5f40e28e5ef026aed2abd1_big.jpg" group-title="斗鱼",❤️怡寶❤️ 港台 科幻 喜剧 动作
+http://192.168.2.2:35455/douyu/434971
+#EXTINF:-1,tvg-id="douyu6" tvg-name="开心情景剧-超清去片头片尾" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/b21c47d734524d9095690409e8ad4ac7_big.jpg" group-title="斗鱼",开心情景剧-超清去片头片尾
+http://192.168.2.2:35455/douyu/6648727
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【神乐】华语 经典 电影 沈腾 周星驰" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/5e22bcc70ad14f03b05e3593b0416a8f_big.jpg" group-title="斗鱼",【神乐】华语 经典 电影 沈腾 周星驰
+http://192.168.2.2:35455/douyu/85894
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【漫威】漫威主线剧情 最佳观影顺序" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202006/bfe36feaa6ab43019bce066ec53896ca_big.jpg" group-title="斗鱼",【漫威】漫威主线剧情 最佳观影顺序
+http://192.168.2.2:35455/douyu/6140589
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【更新】最全斗牌、麻将剧集解说" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202102/bb169861fa7d47b1b62fa3c083a0ce97_big.jpg" group-title="斗鱼",【更新】最全斗牌、麻将剧集解说
+http://192.168.2.2:35455/douyu/9559158
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【贝爷MAX厅】科幻 动作 经典 喜剧" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202002/88d304d4031047a482cfc165f42b7938_big.jpg" group-title="斗鱼",【贝爷MAX厅】科幻 动作 经典 喜剧
+http://192.168.2.2:35455/douyu/4332
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【贝贝】AI补帧 军旅 历史 喜剧 动作" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201903/4b77c73f33f343b3a5acc11c20b69efe_big.jpg" group-title="斗鱼",【贝贝】AI补帧 军旅 历史 喜剧 动作
+http://192.168.2.2:35455/douyu/431460
+#EXTINF:-1,tvg-id="douyu6" tvg-name="「橙記」「最人气港剧直播间」" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201907/42dbbbd5f6234e96ac54d84287f8c47e_big.jpg" group-title="斗鱼",「橙記」「最人气港剧直播间」
+http://192.168.2.2:35455/douyu/4549169
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【正版】经典小品，下饭必备" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202008/adaeff857da84cc59d8d9ad296198b0d_big.jpg" group-title="斗鱼",【正版】经典小品，下饭必备
+http://192.168.2.2:35455/douyu/9067836
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【科幻Fans】精彩科幻影视，解说连连看" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202003/d9f8f285dfd44bcea3cc3e785cdb429e_big.jpg" group-title="斗鱼",【科幻Fans】精彩科幻影视，解说连连看
+http://192.168.2.2:35455/douyu/3508304
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【万合天宜】王大锤情怀上线" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/4b45f49560f948f29948118fa690d53d_big.jpg" group-title="斗鱼",【万合天宜】王大锤情怀上线
+http://192.168.2.2:35455/douyu/9220456
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【女神金】60帧 蓝光原画 刀刀陪看" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/13a0b26f642a4231ad377040d1c58d07_big.jpg" group-title="斗鱼",【女神金】60帧 蓝光原画 刀刀陪看
+http://192.168.2.2:35455/douyu/747764
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【话事人】粤语【周星驰】【林正英】" tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg" group-title="斗鱼",【话事人】粤语【周星驰】【林正英】
+http://192.168.2.2:35455/douyu/5033502
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【周星驰】星爷 华语 成龙 电影 神乐" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/201909/f063e9e3e018455ea084228c7510cb70_big.jpg" group-title="斗鱼",【周星驰】星爷 华语 成龙 电影 神乐
+http://192.168.2.2:35455/douyu/122402
+#EXTINF:-1,tvg-id="douyu6" tvg-name="❤️胡一菲❤️曾小贤❤️第三季" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202101/571d240fe491496a8a7869740438b0f2_big.jpg" group-title="斗鱼",❤️胡一菲❤️曾小贤❤️第三季
+http://192.168.2.2:35455/douyu/5062195
+#EXTINF:-1,tvg-id="douyu6" tvg-name="金庸经典武侠！" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202106/70560fd5d68f4544babdb15dd7af04f7_big.jpg" group-title="斗鱼",金庸经典武侠！
+http://192.168.2.2:35455/douyu/7754031
+#EXTINF:-1,tvg-id="douyu6" tvg-name="【小宇60帧】科幻动作灾难电影 陪看直播" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202302/3884f7e8ff904a7bb545fac0c00c5ae9_big.jpg" group-title="斗鱼",【小宇60帧】科幻动作灾难电影 陪看直播
+http://192.168.2.2:35455/douyu/323876
